@@ -1,0 +1,22 @@
+.clients-section {
+    padding-top: 95px;
+}
+
+.clients-section__title {
+    margin-bottom: 28px;
+
+    text-align: center;
+    font-size: 40px;
+    font-weight: 300;
+    color: #e1524b;
+}
+
+.clients-section__text {
+    margin: 0 auto 60px auto;
+    width: 950px;
+
+    text-align: center;
+    font-size: 13px;
+    font-weight: 400;
+    color: #777;
+}

@@ -1,0 +1,26 @@
+.button {
+    padding: 18px 25px;
+
+    border-radius: 5px;
+    background-color: #76c7c0;
+    box-shadow: 0 4px #62b9b0;
+
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1;
+
+    transition: background-color .2s linear, box-shadow .1s linear;
+}
+
+.button:hover {
+    background-color: #e8645a;
+    box-shadow: 0 4px #e2534b;
+}
+
+.slider__button {
+    padding: 17px 20px 18px;
+
+    background-color: #98a3a3;
+    box-shadow: 0 4px #7f8c8c;
+}

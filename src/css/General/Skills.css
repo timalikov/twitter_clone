@@ -1,0 +1,22 @@
+.skills {
+    width: 570px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.skills__text {
+    width: 550px;
+    margin: 0 auto;
+    display: block;
+
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 2;
+    color: #777;
+}
+
+.skills__img {
+    margin: 0 auto;
+    display: block;
+}

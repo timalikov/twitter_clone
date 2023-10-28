@@ -1,0 +1,19 @@
+.second-section {
+    padding-top: 70px;
+    margin-bottom: 120px;
+    height: 400px;
+
+    background-color: #ececec;
+    background-image: url("../../../img/Path3.png");
+    background-repeat: repeat-x;
+    background-position: top;
+}
+
+.second-section__title {
+    text-align: center;
+    text-transform: uppercase;
+
+    font-size: 40px;
+    font-weight: 800;
+    color: #7f8c8c;
+}

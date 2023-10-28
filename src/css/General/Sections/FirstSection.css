@@ -1,0 +1,26 @@
+.first-screen {
+    padding-top: 55px;
+}
+
+.first-screen__title {
+    margin-bottom: 25px;
+
+    font-size: 30px;
+    font-weight: 400;
+    color: #e25d56;
+}
+
+.first-screen__text {
+    margin-bottom: 70px;
+
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.7;
+    color: #7f8c8c;
+}
+
+.first-screen__inner2 {
+    padding-bottom: 70px;
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,61 @@
+/* Header */
+
+.header {
+    width: 100%;
+    padding: 25px 0;
+
+    background-color: #00acee;
+    background-image: url("../img/Path1.png");
+    background-repeat: repeat-x;
+    background-position: bottom;
+}
+
+.header__inner {
+    display: flex;
+    height: 32px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Nav */
+
+.nav {
+    font-size: 14px;
+    text-transform: uppercase;
+    display: flex;
+}
+
+.nav__link {
+    display: inline-block;
+    position: relative;
+
+    margin: 0 14px;
+    border-radius: 3px;
+
+    color: #fff;
+    text-decoration: none;
+
+    transition: background-color .3s linear, box-shadow .3s linear;
+}
+
+
+.nav__link a {
+    display: block;
+    padding: 8px 12px 8px;
+}
+
+.nav__icon-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav__img {
+    padding: 6px 12px 8px;
+    align-items: center;
+}
+
+.nav__link:hover {
+    background-color: #62a29e;
+    box-shadow: 0 3px #528b86;
+}

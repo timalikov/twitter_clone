@@ -1,0 +1,28 @@
+/* App */
+
+.page {
+    min-height: calc(100vh - 446px);
+}
+
+/* Container */
+
+.container {
+    width: calc(100% - 30px);
+    max-width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+/* Section */
+
+.section {
+    align-items: center;
+}
+
+/* Test */
+
+.test__text {
+    color: #4b7e79;
+    padding-top: 50px;
+    text-align: center;
+}
